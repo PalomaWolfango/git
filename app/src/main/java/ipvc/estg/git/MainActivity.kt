@@ -17,5 +17,7 @@ class MainActivity : AppCompatActivity() {
         //Paloma added method D
 
         //testes no req10
+
+        //testes no req10 v1
     }
 }
